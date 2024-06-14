@@ -1,3 +1,4 @@
+set -x
 #!/bin/sh -T
 #
 # build.sh
